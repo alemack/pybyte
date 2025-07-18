@@ -16,3 +16,7 @@ __pycache__/
 # System files
 .DS_Store
 Thumbs.db
+
+# Документы и вспомогательные материалы
+A Byte of Python - Swaroop C H - Version 2.02.pdf
+SUMMARY_byte_of_python.md
